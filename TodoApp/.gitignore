@@ -1,0 +1,6 @@
+.env
+testdb.db
+todosapp.db
+alembic.ini
+todosapp.db
+__pycache__
